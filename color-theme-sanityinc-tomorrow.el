@@ -79,7 +79,7 @@ executed."
               (aqua . "#8abeb7")
               (blue . "#81a2be")
               (purple . "#b294bb")))
-    (day . ((background . "#ffffff")
+    (day . ((background . "#fafafa")
             (alt-background . "#f7f7f7f7f7f7")
             (current-line . "#efefef")
             (selection . "#d6d6d6")
