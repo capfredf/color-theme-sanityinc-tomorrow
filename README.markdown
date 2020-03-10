@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/purcell/color-theme-sanityinc-tomorrow.png?branch=master)](https://travis-ci.org/purcell/color-theme-sanityinc-tomorrow)
 [![Melpa Status](http://melpa.org/packages/color-theme-sanityinc-tomorrow-badge.svg)](http://melpa.org/#/color-theme-sanityinc-tomorrow)
+[![Build Status](https://github.com/purcell/color-theme-sanityinc-tomorrow/workflows/CI/badge.svg)](https://github.com/purcell/color-theme-sanityinc-tomorrow/actions)
 [![Melpa Stable Status](http://stable.melpa.org/packages/color-theme-sanityinc-tomorrow-badge.svg)](http://stable.melpa.org/#/color-theme-sanityinc-tomorrow)
 <a href="https://www.patreon.com/sanityinc"><img alt="Support me" src="https://img.shields.io/badge/Support%20Me-%F0%9F%92%97-ff69b4.svg"></a>
 
@@ -11,10 +11,6 @@ variant.
 The themes work with both the built-in theming support in recent
 Emacsen, *and* via the traditional `color-theme.el` add-on library in
 older versions, so use whichever you prefer.
-
-## Screenshots ##
-
-Check out all 5 theme variants on [emacsthemes.com](http://emacsthemes.com/themes/sanityinc-tomorrow-themes.html).
 
 ## Installation ##
 
@@ -49,9 +45,12 @@ In newer Emacs versions, just require the library as above, then
 
 <hr>
 
-[![](http://api.coderwall.com/purcell/endorsecount.png)](http://coderwall.com/purcell)
+Author links:
 
-[![](http://www.linkedin.com/img/webpromo/btn_liprofile_blue_80x15.png)](http://uk.linkedin.com/in/stevepurcell)
+[💝 Support this project and my other Open Source work](https://www.patreon.com/sanityinc)
 
-[Steve Purcell's blog](http://www.sanityinc.com/) // [@sanityinc on Twitter](https://twitter.com/sanityinc)
+[💼 LinkedIn profile](https://uk.linkedin.com/in/stevepurcell)
 
+[✍ sanityinc.com](http://www.sanityinc.com/)
+
+[🐦 @sanityinc](https://twitter.com/sanityinc)
